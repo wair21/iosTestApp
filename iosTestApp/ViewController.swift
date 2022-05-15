@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    func someMethod() {
-        // TODO
+    func setupView() {
+        view.backgroundColor = .systemRed
     }
 
 
