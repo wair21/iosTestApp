@@ -14,7 +14,8 @@ class ViewController: UIViewController {
     }
     
     func setupView() {
-        view.backgroundColor = .systemRed
+        // для PR поменял цвет на желтый, чтобы были изменения
+        view.backgroundColor = .systemYellow
     }
 
 
